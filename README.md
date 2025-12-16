@@ -1,4 +1,5 @@
 # Eye Control Mouse
+# only test and study
 
 This Python script utilizes computer vision to create an eye-tracking mouse control system. The script uses the MediaPipe library for face mesh detection and PyAutoGUI for mouse control.
 
@@ -69,4 +70,4 @@ This Python script utilizes computer vision to create an eye-tracking mouse cont
 - The script uses the [MediaPipe](https://mediapipe.dev/) library for face mesh detection.
 - [PyAutoGUI](https://pyautogui.readthedocs.io/) is used for mouse control.
 
-Feel free to customize the README file further based on your project's specific details and requirements.
+
