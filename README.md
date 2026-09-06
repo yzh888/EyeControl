@@ -8,7 +8,7 @@ This Python script utilizes computer vision to create an eye-tracking mouse cont
 ### Prerequisites
 
 - Python 3.x
-- OpenCV
+- OpenCV.
 - MediaPipe
 - PyAutoGUI
 
